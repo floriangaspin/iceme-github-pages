@@ -78,3 +78,7 @@ body{
 .navbar-transparent .navbar-brand:focus {
   color: white;
 }
+
+.disqus{
+	padding: 100px;
+}
