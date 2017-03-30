@@ -79,9 +79,7 @@ body{
   color: white;
 }
 
-.container {
-	width: 50%;
-	margin-top: 50px;
+#disqus {
 	padding-top: 100px;
 }
 
