@@ -81,8 +81,6 @@ body{
 
 .container .disqus{
 	width: 50%;
+	margin-top: 50px;
 }
 
-.col-xs-12 .text-center{
-	padding-top: 30px;
-}
