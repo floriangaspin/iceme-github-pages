@@ -79,7 +79,7 @@ body{
   color: white;
 }
 
-#disqus {
-	padding-top: 100px;
+.spacer{
+	height: 10em;
 }
 
