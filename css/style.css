@@ -41,7 +41,7 @@ body{
 }
 
 .spacer{
-	height: 8em;
+	height: 3em;
 }
 
 .feature p{
@@ -79,11 +79,4 @@ body{
   color: white;
 }
 
-.spacer{
-	height: 1em;
-}
-
-#news{
-	margin-top: 5em;
-}
 
