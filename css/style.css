@@ -80,6 +80,12 @@ body{
 }
 
 #news{
-	padding-top: 10px;
+	background-color: grey;
+	padding-bottom: 2em;
+	margin-top: 3em;
+}
+
+#news h2{
+	color: white;
 }
 
